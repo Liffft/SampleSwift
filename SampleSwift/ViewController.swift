@@ -8,7 +8,7 @@
 
 import UIKit
 
-class 💩: UIViewController {
+class ViewController: UIViewController {
 
     
     @IBOutlet var countLabel : UILabel
